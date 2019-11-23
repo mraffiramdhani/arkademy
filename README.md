@@ -16,4 +16,4 @@ Merupakan sebuah Repository yang diperuntukkan untuk melengkapi Online Test Boot
 http://localhost/arkademy/
 ```
 ## Preview Soal No.6
-<p align="center"><a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/46930178/57179299-95e5c280-6ea6-11e9-96bb-c137b6bae54c.PNG"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/46930178/69478219-ae0d3700-0e22-11ea-8889-215ab791780d.PNG"></a></p>
