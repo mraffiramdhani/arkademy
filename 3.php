@@ -25,6 +25,6 @@ function printString(int $param)
 	return implode(', ', $arr);
 }
 
-echo printString(21);
+echo printString(3);
 
 ?>
